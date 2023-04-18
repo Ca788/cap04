@@ -1,4 +1,4 @@
-# Cápitulo 4 do livro lógica de programação com JavaScripit
+# Cápitulo 4 do livro lógica de programação com JavaScript. 🔗
 
 Estou aprimorando minha habilidade de programação através do livro "Lógica de Programação e Algoritmos com JavaScript". O livro tem sido uma ferramenta valiosa para me ajudar a desenvolver minha lógica de programação usando a linguagem JavaScript.
 
